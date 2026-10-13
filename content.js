@@ -70,7 +70,7 @@ window.PORTFOLIO = {
       "url": "https://wishpop.site",
       "thumbnail": "assets/quiet.svg",
       "featured": true,
-      "demo": true,
+      "demo": false,
       "comments": []
     }
   ],
