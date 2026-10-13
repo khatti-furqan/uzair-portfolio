@@ -67,7 +67,7 @@ window.PORTFOLIO = {
       "year": "Sample",
       "description": "A sample layout for original content. Replace the illustration with a still from Uzair’s video.",
       "role": "Concept, filming & editing",
-      "url": "https://wishpop.site",
+      "url": "https://www.youtube.com/watch?v=zKSvgE6AvIw&pp=0gcJCTcMAYcqIYzv",
       "thumbnail": "assets/quiet.svg",
       "featured": true,
       "demo": false,
